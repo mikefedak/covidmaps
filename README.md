@@ -1,2 +1,2 @@
 # covidmaps
-Data nalysis for COVID-19
+Data analysis for COVID-19
